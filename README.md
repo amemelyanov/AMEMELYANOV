@@ -29,4 +29,4 @@
 #### Учебные проекты:
 1. [Spring Boot Web приложение с авторизацией на фильтрах и Hibernate](https://github.com/AMEMELYANOV/job4j_cars)
 2. [Spring Web приложение с использованием Spring Security и Spring Data](https://github.com/AMEMELYANOV/job4j_car_accident)
-3. [Сервис REST API на базе Spring Boot](https://github.com/AMEMELYANOV/job4j_url_shortcut)
+3. [Сервис REST API на базе Spring Boot  и использованием Docker](https://github.com/AMEMELYANOV/job4j_url_shortcut)
