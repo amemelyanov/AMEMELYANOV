@@ -1,7 +1,7 @@
 Привет! Меня зовут Александр! Добро пожаловать! :v:
 
 * Я из Ярославля :computer:
-* Я изучаю Java с [Job4j](https://job4j.ru/) :coffee:
+
 * Я закончил ЯРГУ им. П.Г. Демидова по специальности "Прикладная математика". :office:
 * Мой опыт программирования на Java 2 года :watch:
 
@@ -14,7 +14,7 @@
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![Liquebase](https://img.shields.io/badge/Liquiebase-%20-orange)
+![Liquibase](https://img.shields.io/badge/Liquibase-%20-orange)
 
 ![HTML](https://img.shields.io/badge/HTML-5-blue)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%20-green)
@@ -25,13 +25,14 @@
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 ![Codecov](https://img.shields.io/badge/Codecov-%20-red)
+![Docker](https://img.shields.io/badge/Docker-%20-blue)
 
 #### Проекты:
-1. [Java Core консольное хранилище заявок](https://github.com/AMEMELYANOV/job4j_tracker)
-2. [Java Core консольное приложение выполняет парсинг сайта](https://github.com/AMEMELYANOV/job4j_grabber)
-3. [Java Core консольное приложение с демонстрацией работы асинхронной очереди](https://github.com/AMEMELYANOV/Pooh-JMS)
-4. [Spring Boot Web приложение с авторизацией на фильтрах и Hibernate](https://github.com/AMEMELYANOV/job4j_cars)
-5. [Spring Web приложение с использованием Spring Security и Spring Data](https://github.com/AMEMELYANOV/job4j_forum)
+1. [Tracker - консольное хранилище заявок. Java Core, PostgreSQL, Hibernate.](https://github.com/AMEMELYANOV/tracker)
+2. [Pool JMS - приложение реализация асинхронной очереди. Java Core.](https://github.com/AMEMELYANOV/Pool_JMS)
+3. [Forum - веб приложение форум. Spring (Boot, MVC, Security, Data), PostgreSQL, Bootstrap, Liquibase, JSP, JSTL)](https://github.com/AMEMELYANOV/forum)
+4. 
+3. [Spring Boot Web приложение с авторизацией на фильтрах и Hibernate](https://github.com/AMEMELYANOV/job4j_cars)
 6. [Сервис REST API на базе Spring Boot и использованием Docker](https://github.com/AMEMELYANOV/job4j_url_shortcut)
 7. [Spring Boot проект с демонстрацией работы Rest сервиса через RestTemplate](https://github.com/AMEMELYANOV/job4j_rest)
 8. [Spring Boot проект (чат) с демонстрацией работы Rest сервиса](https://github.com/AMEMELYANOV/job4j_chat)
