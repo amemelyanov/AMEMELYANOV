@@ -28,14 +28,14 @@
 ![Docker](https://img.shields.io/badge/Docker-%20-blue)
 
 #### Проекты:
-1. [Tracker - консольное хранилище заявок. Java Core, PostgreSQL, Hibernate, JUnit.](https://github.com/AMEMELYANOV/tracker)
-2. [Pool JMS - приложение реализация асинхронной очереди. Java Core, JUnit.](https://github.com/AMEMELYANOV/Pool_JMS)
-3. [Forum - веб приложение форум. Spring (Boot, MVC, Security, Data), PostgreSQL, Bootstrap, Liquibase, JSP, JSTL, JUnit.](https://github.com/AMEMELYANOV/forum)
-4. [Chat - чат на базе Rest сервиса. Spring (Boot, Security, Data, Validation), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/chat)
-5. [Cars - веб приложение, площадка для размещения объявлений по продаже автомобилей. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/cars)
-6. [Cinema - веб приложение реализующее сервис по продаже билетов в кинотеатр.  Spring (Boot), JDBC, PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/cinema)
-7. [Todo - веб приложение для учета дел. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/todo)
-8. [Accidents - веб приложение для работы с дорожно-транспортными происшествиями.  Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/job4j_url_shortcut)
-9. [URL_shortcut - сервис REST API для кодирования html ссылок во внутренние коды сервиса. Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/job4j_car_accident)
+01. [Tracker - консольное хранилище заявок. Java Core, PostgreSQL, Hibernate, JUnit.](https://github.com/AMEMELYANOV/tracker)
+02. [Pool JMS - приложение реализация асинхронной очереди. Java Core, JUnit.](https://github.com/AMEMELYANOV/Pool_JMS)
+03. [Forum - веб приложение форум. Spring (Boot, MVC, Security, Data), PostgreSQL, Bootstrap, Liquibase, JSP, JSTL, JUnit.](https://github.com/AMEMELYANOV/forum)
+04. [Chat - чат на базе Rest сервиса. Spring (Boot, Security, Data, Validation), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/chat)
+05. [Cars - веб приложение, площадка для размещения объявлений по продаже автомобилей. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/cars)
+06. [Cinema - веб приложение реализующее сервис по продаже билетов в кинотеатр.  Spring (Boot), JDBC, PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/cinema)
+07. [Todo - веб приложение для учета дел. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/todo)
+08. [Accidents - веб приложение для работы с дорожно-транспортными происшествиями.  Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/job4j_url_shortcut)
+09. [URL_shortcut - сервис REST API для кодирования html ссылок во внутренние коды сервиса. Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/job4j_car_accident)
 10. [Grabber - консольное приложение для парсинга сайтов. Java Core, JUnit.](https://github.com/AMEMELYANOV/grabber)
 
