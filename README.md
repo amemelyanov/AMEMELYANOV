@@ -35,7 +35,7 @@
 05. [Cars - веб приложение, площадка для размещения объявлений по продаже автомобилей. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/cars)
 06. [Cinema - веб приложение реализующее сервис по продаже билетов в кинотеатр.  Spring (Boot), JDBC, PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/cinema)
 07. [Todo - веб приложение для учета дел. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/todo)
-08. [Accidents - веб приложение для работы с дорожно-транспортными происшествиями.  Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/job4j_url_shortcut)
-09. [URL_shortcut - сервис REST API для кодирования html ссылок во внутренние коды сервиса. Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/job4j_car_accident)
+08. [Accidents - веб приложение для работы с дорожно-транспортными происшествиями.  Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/url_shortcut)
+09. [URL_shortcut - сервис REST API для кодирования html ссылок во внутренние коды сервиса. Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/accidents)
 10. [Grabber - консольное приложение для парсинга сайтов. Java Core, JUnit.](https://github.com/AMEMELYANOV/grabber)
 
