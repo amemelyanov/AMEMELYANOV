@@ -39,3 +39,6 @@
 09. [URL_shortcut - сервис REST API для кодирования html ссылок во внутренние коды сервиса. Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/url_shortcut)
 10. [Grabber - консольное приложение для парсинга сайтов. Java Core, JUnit.](https://github.com/AMEMELYANOV/grabber)
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=amemelyanov&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amemelyanov&layout=compact)](https://github.com/ShamRail/github-readme-stats)
