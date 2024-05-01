@@ -1,44 +1,52 @@
-Привет! Меня зовут Александр! Добро пожаловать! :v:
+# Hello, Friends! :v:
+  My name is Alexander Emelyanov and I'm a Java programmer. I'm from Yaroslavl.<br>
+  You can write me on  [![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/T_AlexME)
+  or
+  [![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:amemelyanov@yandex.ru).
+  &nbsp;&nbsp;
 
-* Я из Ярославля :computer:
+## 🔧 Technologies & Tools
 
-* Я закончил ЯРГУ им. П.Г. Демидова по специальности "Прикладная математика". :office:
-* Мой опыт программирования на Java 2 года :watch:
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=79FF97&color=e4e4e4)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=79FF97&color=e4e4e4)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=79FF97&color=e4e4e4)
+![](https://img.shields.io/badge/Code-Hibernate-informational?style=flat&logo=hibernate&logoColor=79FF97&color=e4e4e4)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=apache-maven&logoColor=79FF97&color=e4e4e4)
+![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=79FF97&color=e4e4e4)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=79FF97&color=e4e4e4)
+![](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=79FF97&color=e4e4e4)
 
------------
-<b>Основные технологии:</b>
+## &#x1f4c8; GitHub Projects & Stats
 
-![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange) 
-![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2-green)
+|  №  |                             Наименование проекта                             | Описание                                                                                                                                                |
+|:---:|:----------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1  | [Microservice library](https://github.com/amemelyanov/microservices_library) | Микросервисное приложение, библиотека книг. Spring Boot, Spring CLoud, PostgreSQL, Minio, Kafka, SOAP                                                   |
+|  2  |         [URL_shortcut](https://github.com/amemelyanov/url_shortcut)          | Сервис REST API для кодирования html ссылок во внутренние коды сервиса. Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Rest               |
+|  3  |             [Pool JMS](https://github.com/amemelyanov/Pool_JMS)              | Приложение реализация асинхронной очереди. Java Core, JUnit                                                                                             |
+|  4  |                [Forum](https://github.com/amemelyanov/forum)                 | Веб приложение форум. Spring (Boot, MVC, Security, Data), PostgreSQL, Bootstrap, Liquibase, JSP, JSTL, JUnit                                            |
+|  5  |                 [Chat](https://github.com/amemelyanov/chat)                  | Чат на базе Rest сервиса. Spring (Boot, Security, Data, Validation), PostgreSQL, Liquibase, Junit, Rest                                                 |
+|  6  |                 [Cars](https://github.com/amemelyanov/cars)                  | Веб приложение, площадка для размещения объявлений по продаже автомобилей. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap |
+|  7  |               [Cinema](https://github.com/amemelyanov/cinema)                | Веб приложение реализующее сервис по продаже билетов в кинотеатр.  Spring (Boot), JDBC, PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap              |
+|  8  |                 [Todo](https://github.com/amemelyanov/todo)                  | Веб приложение для учета дел. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap                                              |
+|  9  |            [Accidents](https://github.com/amemelyanov/accidents)             | Веб приложение для работы с дорожно-транспортными происшествиями.  Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap    |
+| 10  |              [Tracker](https://github.com/amemelyanov/tracker)               | Консольное хранилище заявок. Java Core, PostgreSQL, Hibernate, JUnit                                                                                    |
 
-![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
-![Liquibase](https://img.shields.io/badge/Liquibase-%20-orange)
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amemelyanov&theme=dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amemelyanov&theme=dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amemelyanov&theme=dark" alt=""/>
 
-![HTML](https://img.shields.io/badge/HTML-5-blue)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%20-green)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-4-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-%20-yellow)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amemelyanov&layout=compact)](https://github.com/AMEMELYANOV/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=amemelyanov)](https://github.com/amemelyanov/leetcode-stats)
+</div>
+<div id="languages" align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" width="100" height="100"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="spring" width="100" height="100"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" title="apachekafka" width="100" height="100"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" width="100" height="100"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="git" width="100" height="100"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title="docker" width="100" height="100"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="jenkins" width="100" height="100"/>&nbsp;    
+</div>
 
 
-![Maven](https://img.shields.io/badge/Maven-3-red)
-![Travis](https://img.shields.io/badge/Travis-CI-succes)
-![Codecov](https://img.shields.io/badge/Codecov-%20-red)
-![Docker](https://img.shields.io/badge/Docker-%20-blue)
-
-#### Проекты:
-01. [Tracker - консольное хранилище заявок. Java Core, PostgreSQL, Hibernate, JUnit.](https://github.com/AMEMELYANOV/tracker)
-02. [Pool JMS - приложение реализация асинхронной очереди. Java Core, JUnit.](https://github.com/AMEMELYANOV/Pool_JMS)
-03. [Forum - веб приложение форум. Spring (Boot, MVC, Security, Data), PostgreSQL, Bootstrap, Liquibase, JSP, JSTL, JUnit.](https://github.com/AMEMELYANOV/forum)
-04. [Chat - чат на базе Rest сервиса. Spring (Boot, Security, Data, Validation), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/chat)
-05. [Cars - веб приложение, площадка для размещения объявлений по продаже автомобилей. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/cars)
-06. [Cinema - веб приложение реализующее сервис по продаже билетов в кинотеатр.  Spring (Boot), JDBC, PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/cinema)
-07. [Todo - веб приложение для учета дел. Spring (Boot), PostgreSQL, Hibernate, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/todo)
-08. [Accidents - веб приложение для работы с дорожно-транспортными происшествиями.  Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Thymeleaf, Bootstrap.](https://github.com/AMEMELYANOV/accidents)
-09. [URL_shortcut - сервис REST API для кодирования html ссылок во внутренние коды сервиса. Spring (Boot, Security, Data), PostgreSQL, Liquibase, Junit, Rest.](https://github.com/AMEMELYANOV/url_shortcut)
-10. [Grabber - консольное приложение для парсинга сайтов. Java Core, JUnit.](https://github.com/AMEMELYANOV/grabber)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=amemelyanov&hide=stars,prs,issues,contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amemelyanov&layout=compact)](https://github.com/ShamRail/github-readme-stats)
