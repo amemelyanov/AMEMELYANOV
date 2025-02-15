@@ -1,5 +1,5 @@
 # Hello, Friends! :v:
-  My name is Alexander Emelyanov and I'm a Java programmer and QA — Load & Performance. I'm from Yaroslavl.<br>
+  My name is Alexander Emelyanov and I'm a Java programmer and QA - Load & Performance. I'm from Yaroslavl.<br>
   You can write me on  [![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/T_AlexME)
   or
   [![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:amemelyanov@yandex.ru).
